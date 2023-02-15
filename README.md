@@ -1,4 +1,4 @@
-<img src="Github intro gif" />
+<img src="test-gif.gif" />
 
 <!--
 **tessie-the-messy/tessie-the-messy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
