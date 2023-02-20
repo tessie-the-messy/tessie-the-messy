@@ -2,8 +2,7 @@
   <img src="profile-gif.gif" />
  </div>
  
- <div align="center">🌸My name is Tessa🌸</div>
- <br>
+ # 🌸My name is Tessa🌸
  💗 Pronouns: She/Her
  👍 Likes: Video Games👾, Streaming👩‍💻, Web Design💻, My cat😻, and 🤣emojis🤣
  🚫 Dislikes: Mean people 🤬
