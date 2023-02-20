@@ -2,16 +2,16 @@
   <img src="profile-gif.gif" />
  </div>
  
- # 🌸My name is Tessa🌸
- 💗 Pronouns: She/Her
- 👍 Likes: Video Games👾, Streaming👩‍💻, Web Design💻, My cat😻, and 🤣emojis🤣
- 🚫 Dislikes: Mean people 🤬
+# 🌸My name is Tessa🌸
+ - 💗 Pronouns: She/Her
+ - 👍 Likes: Video Games👾, Streaming👩‍💻, Web Design💻, My cat😻, and 🤣emojis🤣
+ - 🚫 Dislikes: Mean people 🤬
  
  # Currently Working on...
  
- ## [dev.log](https://dev-log.herokuapp.com/) 💙
- ## Personal Portfolio 💚
- ## JavaScript 30 day challenge 📅
+ ### [dev.log](https://dev-log.herokuapp.com/) 💙
+ ### Personal Portfolio 💚
+ ### JavaScript 30 day challenge 📅
  
  
  
