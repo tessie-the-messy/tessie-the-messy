@@ -5,7 +5,6 @@
 # 🌸My name is Tessa🌸
  - 💗 Pronouns: She/Her
  - 👍 Likes: Video Games👾, Streaming👩‍💻, Web Design💻, My cat😻, and 🤣emojis🤣
- - 🚫 Dislikes: Mean people 🤬
  
  # Currently Working on...
  
