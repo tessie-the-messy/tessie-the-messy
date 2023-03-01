@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile-gif.gif" />
+  <img src="welcome.gif" />
  </div>
  
 # 🌸My name is Tessa🌸
